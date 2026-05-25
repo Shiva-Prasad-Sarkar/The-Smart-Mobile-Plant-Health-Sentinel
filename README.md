@@ -154,10 +154,9 @@ Testing showed that the robot can efficiently water plants while minimizing wate
 
 ## Robot Prototype
 
-md
 ![Robot Image 1](image4.jpg)
-![Robot Image 2](images5.jpg)
-![Robot Image 3](images6.jpg)
+![Robot Image 2](image5.jpg)
+![Robot Image 3](image6.jpg)
 
 ---
 
